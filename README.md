@@ -1,6 +1,6 @@
-## Título e imagen de portada <a name = "Título-e-imagen-de-portada"> </a>
+## Título e imagen de portada 
 
-<h1> <em> # Encuentra un numero de 1 al 10 </em> </h1> 
+<h1> <em> # Encuentra un numero de 1 al 10 </em> </h1> <a name = "Título-e-imagen-de-portada"> </a>
 
 ![ia](https://github.com/Pedro014camp/JuegoSecreto/assets/109708107/10d9dfcc-5f4d-4fd2-97e2-f381fdc6d977)
    
