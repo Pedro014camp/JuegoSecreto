@@ -1,6 +1,6 @@
-## Título e imagen de portada 
+## Título e imagen de portada      <a name = "Título-e-imagen-de-portada"> </a>
 
-<h1> <em> # Encuentra un numero de 1 al 10 </em> </h1> <a name = "Título-e-imagen-de-portada"> </a>
+<h1> <em> # Encuentra un numero de 1 al 10 </em> </h1> 
 
 ![ia](https://github.com/Pedro014camp/JuegoSecreto/assets/109708107/10d9dfcc-5f4d-4fd2-97e2-f381fdc6d977)
    
@@ -36,7 +36,7 @@
 *[Conclusión](#conclusión)
 
 
-## :hammer:Funcionalidades del proyecto <a name = "Características-de-la-aplicación-y-demostración"> </a>
+## :hammer: Funcionalidades del proyecto    <a name = "Características-de-la-aplicación-y-demostración"> </a>
 - `Funcionalidad 1`: Crea en memoria un numero random.
 - `Funcionalidad 2`: Lee un numero al azar seleccionado por el usuario.
 - `Funcionalidad 2a`: Guarda en memoria los dos numeros y compara.
